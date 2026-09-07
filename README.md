@@ -7,4 +7,16 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/vamous-am/AlgoForge/tree/master/0184-department-highest-salary) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vamous-am/AlgoForge/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vamous-am/AlgoForge/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vamous-am/AlgoForge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
