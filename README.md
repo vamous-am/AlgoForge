@@ -19,4 +19,16 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vamous-am/AlgoForge/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vamous-am/AlgoForge/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vamous-am/AlgoForge/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vamous-am/AlgoForge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
