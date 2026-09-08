@@ -10,6 +10,7 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vamous-am/AlgoForge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/vamous-am/AlgoForge/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -31,4 +32,12 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vamous-am/AlgoForge/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vamous-am/AlgoForge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vamous-am/AlgoForge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
