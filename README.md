@@ -40,4 +40,12 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vamous-am/AlgoForge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vamous-am/AlgoForge/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vamous-am/AlgoForge/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
