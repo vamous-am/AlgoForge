@@ -23,6 +23,7 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/vamous-am/AlgoForge/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/vamous-am/AlgoForge/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -48,4 +49,8 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vamous-am/AlgoForge/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/vamous-am/AlgoForge/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
