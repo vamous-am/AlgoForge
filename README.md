@@ -7,6 +7,7 @@ Collection of my solved LeetCode problems, synced automatically with LeetHub. Or
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/vamous-am/AlgoForge/tree/master/0184-department-highest-salary) |
+| [0196-delete-duplicate-emails](https://github.com/vamous-am/AlgoForge/tree/master/0196-delete-duplicate-emails) |
 ## String
 |  |
 | ------- |
